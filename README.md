@@ -1,4 +1,4 @@
-Taken from [https://github.com/towelenee/iris_submission](this repository).
+Taken from [this repository](https://github.com/towelenee/iris_submission).
 
 # iris_submission
 Sample repository to test github integration
